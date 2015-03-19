@@ -10,7 +10,7 @@
 # Load functions
 # ***************************
 
-source("/home/benjamin/Documents/webpage/post/algorithms_complexity/function_lib.R")
+source("function_lib.R")
 
 # ***************************
 # Load libraries
